@@ -1,4 +1,4 @@
-local walkspeed = 100 -- change if you want
+local walkSpeed = 100 -- change if you want
 
 local gmt = getrawmetatable(game)
 setreadonly(gmt, false)   
